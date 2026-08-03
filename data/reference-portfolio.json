@@ -1,0 +1,1381 @@
+[
+ {
+  "p": 1,
+  "ch": "partnership",
+  "t": "German Water Partnership",
+  "d": "A joint initiative of the German private and public sectors — commercial enterprises, government and non-government organisations, scientific institutions and water-related associations — supported by five federal ministries and coordinated from Berlin. Presented under the theme <em>Water Reuse: Opportunities and Challenges</em>.",
+  "meta": "Berlin, Germany · 2008"
+ },
+ {
+  "p": 2,
+  "ch": "ksa",
+  "t": "SWCC desalination plants — front-end engineering",
+  "d": "Front-end engineering for the construction of water treatment facilities at SWCC desalination plants. The technical consultations enabled SWCC to reach the Gate 3 stage, including identification and selection of appropriate water treatment system options for each location through engineering design and preparation of tender documents.",
+  "meta": "Riyadh, Saudi Arabia · 2022–2023"
+ },
+ {
+  "p": 3,
+  "ch": "ksa",
+  "t": "SWCC — HAZOP as a stage-gate deliverable",
+  "d": "Hazard and operability analysis used to identify potential hazards and operability problems that may lead to non-conforming products, followed by an updated analysis (HAZOP v2) during the Execute stage. A HAZOP review is also conducted where a facility is subject to process modification during its lifecycle.",
+  "meta": "Riyadh, Saudi Arabia · 2022–2023"
+ },
+ {
+  "p": 4,
+  "ch": "ksa",
+  "t": "Technical workshop session",
+  "d": "Workshop delivery to a client engineering team.",
+  "meta": ""
+ },
+ {
+  "p": 5,
+  "ch": "method",
+  "t": "HAZOP Manager — risk matrix configuration",
+  "d": "The study environment used for the work: secondary keywords, frequency and severity codes, hazard category codes and a colour-coded risk matrix.",
+  "meta": ""
+ },
+ {
+  "p": 6,
+  "ch": "method",
+  "t": "HAZOP study workshop — method",
+  "d": "The project scope is divided into nodes, each described with the P&IDs on which it appears, its design and operating conditions and its design intent. The procedure runs: introduction and training; system description; selecting nodes; description and design intent; examining deviations; identifying causes; evaluating consequences; considering safeguards; generating recommendations.",
+  "meta": ""
+ },
+ {
+  "p": 7,
+  "ch": "method",
+  "t": "HAZOP definitions of severity",
+  "d": "The severity framework applied across safety, environment and operations — graded from worst case through severe, major and moderate to minor, with explicit criteria for permit violations, clean-up exposure and process flow impact.",
+  "meta": ""
+ },
+ {
+  "p": 8,
+  "ch": "method",
+  "t": "PHA study worksheets — WWTP / lifting station",
+  "d": "Case study P&ID broken into eight sections: tanker unloading and inlet lifting station; fine screening, sand and grease trap; selector, oxidation ditch and secondary sedimentation; odour air treatment; tertiary treatment filters; chlorination, TSE pond and tanker filling station; sludge dewatering and disposal; and return flows pumping.",
+  "meta": ""
+ },
+ {
+  "p": 9,
+  "ch": "method",
+  "t": "Sections 1 & 2 — tanker unloading and inlet lifting station",
+  "d": "Piping and instrumentation diagram covering coarse screening, the inlet lifting station (three pumps, one standby), gas detection and inlet quality sampling.",
+  "meta": ""
+ },
+ {
+  "p": 10,
+  "ch": "method",
+  "t": "Node deviation and cause register",
+  "d": "Twelve study nodes with their deviations and causes — from peak flow off the sanitary sewer and additional tanker discharge through pump trips, piping and joint rupture, phase sequence reversal and ventilation system failure.",
+  "meta": ""
+ },
+ {
+  "p": 11,
+  "ch": "ksa",
+  "t": "NWC — technical consultations",
+  "d": "A programme of technical consultations for the National Water Company covering WaterGEMS V8.01 hydraulic modelling for Al Baha water supply; bio-modelling of Ajial STP (1.2 MLD, ATV-131) at Al Khobar; assessment of the MEGAPOLIS wastewater system in Russia; decentralisation assessment for the Jeddah wastewater master plan; BioWin simulation for the ICEAS WWTP in Riyadh; TSE disposal and reuse management; technical and commercial evaluation of variations and change orders across 120 projects kingdom-wide (CAPEX SAR 30 billion); hydrogen sulphide odour control on trunk sewers; a CFD model for the Al Manhfouha TSE pumping station intake; hydraulic analyses at Airport-II Jeddah (1,000 ML), Alraj Taif, Abha–Khamis and North Jeddah; RO plant CAPEX and OPEX study; wastewater discharge surcharge rates; and geological assessment for land collapse on Bowaib Road.",
+  "meta": "Riyadh, Saudi Arabia · 2020–2021"
+ },
+ {
+  "p": 12,
+  "ch": "ksa",
+  "t": "NWC technical consultations — programme team",
+  "d": "The consultation programme team.",
+  "meta": "Riyadh, Saudi Arabia · 2020–2021"
+ },
+ {
+  "p": 13,
+  "ch": "ksa",
+  "t": "CFD model — main TSE pumping station intake",
+  "d": "Computational fluid dynamics study of a sump serving six vertical turbine pumps (8-stage, 6,610 GPM at 722 ft), examining the influence of suction for pumping in parallel operation on a common header. The original arrangement gave a non-uniform flow distribution with a strong jet through the middle of the sump — a condition that would cause rough pump operation, vibration and possible cavitation. The revised arrangement captures the flow uniformly distributed among the pumps.",
+  "meta": "Riyadh, Saudi Arabia · 2022 · NWC"
+ },
+ {
+  "p": 14,
+  "ch": "ksa",
+  "t": "Value engineering — trench width reduction",
+  "d": "Proposal T11 on the Madinah region sewer networks: rather than sizing the pipe trench to the typical standard (O.D + 0.70), the width is set from soil type and the angle of the unsupported side (slope &lt; 60) to O.D + 0.40 per EN 1610. Life-cycle cost falls from SAR 14,384,992 to SAR 11,507,994 — a potential saving of SAR 2,876,998 — against the disadvantage of an unsupported side slope.",
+  "meta": "Madinah region, Saudi Arabia · 2022 · NWC"
+ },
+ {
+  "p": 15,
+  "ch": "ksa",
+  "t": "Value engineering — minimum pipe slope",
+  "d": "Proposal T14: minimise pipe slopes to the per-diameter standard instead of holding slopes as specified. Initial cost falls from SAR 14,384,992 to SAR 12,386,925, a potential saving of SAR 1,998,067, with flushing required at minimum flow as the trade-off.",
+  "meta": "Madinah region, Saudi Arabia · 2022 · NWC"
+ },
+ {
+  "p": 16,
+  "ch": "ksa",
+  "t": "Value engineering — cost worksheet",
+  "d": "The supporting quantities behind proposal T14: excavation for pipes at standard slopes, 52,700 m³ at SAR 272.96, against 45,380 m³ for minimum slopes achieving a self-cleansing velocity of 0.45 m/s.",
+  "meta": "Madinah region, Saudi Arabia · 2022 · NWC"
+ },
+ {
+  "p": 17,
+  "ch": "ksa",
+  "t": "H₂S modelling — Riyadh main trunk sewer",
+  "d": "Hydrogen sulphide release modelled through the trunk sewer, pairing a gas superficial-velocity streamline model of the drop structure with field gas measurement at the manhole, and a concentration field along the sewer.",
+  "meta": "Riyadh, Saudi Arabia · NWC"
+ },
+ {
+  "p": 18,
+  "ch": "ksa",
+  "t": "Aj'yal — Al Khobar WWTP expansion assessment",
+  "d": "Following a workshop held on 15 June with NWC, ILF and Passavant on the most feasible scenarios for duplicating the capacity of Aj'al STP — instructed by the Minister of Water during a site visit — this report assessed expansion from an average daily flow of 70 MLD to 140 MLD, with the additional flow provided from the existing Al Khobar WWTP adjacent to the site. Contractual documents allowed expansion from 70 to 100 MLD on daily average flow while holding daily and hourly peak flow at 121 MLD and 8,300 m³/h, so most structures dimensioned on hydraulic capacity required no expansion to meet Stage II.",
+  "meta": "Al Khobar, Saudi Arabia · NWC"
+ },
+ {
+  "p": 19,
+  "ch": "ksa",
+  "t": "Aj'al STP — location",
+  "d": "Site location plan showing the WWTP at South Dhahran, the irrigation pumping station and the sea outfall.",
+  "meta": "Al Khobar, Saudi Arabia"
+ },
+ {
+  "p": 20,
+  "ch": "ksa",
+  "t": "Aj'yal expansion — two capacity scenarios",
+  "d": "Process calculations tested the existing plant against two scenarios. At 70 MLD average daily flow the plant accommodates 120 MLD peak daily flow; at 105 MLD it cannot accommodate 181 MLD peak. Meeting the second stage requires retrofitting — increasing biomass and reducing detention time for nitrification in the biological reactor, increasing the surface area of both primary and secondary clarifiers, and expanding tertiary treatment. A hybrid biomass technique raises COD reduction capacity so future increases in flow and COD load can be handled without increasing bioreactor volume.",
+  "meta": "Al Khobar, Saudi Arabia · NWC"
+ },
+ {
+  "p": 21,
+  "ch": "ksa",
+  "t": "Aj'yal expansion — general arrangement",
+  "d": "Plant general arrangement drawing marked up with the units affected by the capacity assessment.",
+  "meta": "Al Khobar, Saudi Arabia · NWC"
+ },
+ {
+  "p": 22,
+  "ch": "ksa",
+  "t": "Aj'yal — influent characterisation",
+  "d": "Influent raw sewage characteristics and average waste loads: BOD₅ 244 mg/L (17,100 kg/day), COD 488 mg/L (34,200 kg/day), total suspended solids 285 mg/L (19,950 kg/day), TKN 46 mg/L (3,221 kg/day), ammonia inorganic nitrogen 35 mg/L (2,423 kg/day), total phosphorus 8 mg/L (561 kg/day) and alkalinity 200 mg/L.",
+  "meta": "Al Khobar, Saudi Arabia · NWC"
+ },
+ {
+  "p": 23,
+  "ch": "ksa",
+  "t": "Aj'yal — pollutant ratios and design flows",
+  "d": "Pollutant relationships gave BOD₅/COD 0.50, TSS/BOD₅ 1.17, TKN/BOD₅ 0.19, BOD₅/TKN 5.31 and BOD₅/TP 30.46 — a BOD₅/TP ratio below 40, insufficient for biological phosphorus removal, while BOD₅/TKN above 5 suits combined nitrification and denitrification. Design loads at 70 MLD average daily flow: 285,000 population equivalent, 70,110 m³/day average, 8,326 m³/h peak hourly and 120,239 m³/day peak daily.",
+  "meta": "Al Khobar, Saudi Arabia · NWC"
+ },
+ {
+  "p": 24,
+  "ch": "ksa",
+  "t": "Aj'yal — biological reactor check",
+  "d": "Reactor sizing verified against ATV-A131 Hartwig coefficients: sludge production from carbon removal 13,171 kg MLSS/day, biomass accumulated 99,229 kg, total reactor volume 27,949 m³ (against 28,000 available), volumetric loading rate 0.416 kg BOD₅/m³·day, sludge loading F/M ratio 0.146, denitrification volume 9,792 m³ at V_DN/V_BB of 35 per cent — each within limit.",
+  "meta": "Al Khobar, Saudi Arabia · NWC"
+ },
+ {
+  "p": 25,
+  "ch": "ksa",
+  "t": "Aj'yal — second scenario at 105 MLD",
+  "d": "Influent characterisation repeated for the 105 MLD case: BOD₅ 25,800 kg/day, COD 51,600 kg/day, suspended solids 30,100 kg/day, TKN 4,859 kg/day and total phosphorus 847 kg/day.",
+  "meta": "Al Khobar, Saudi Arabia · NWC"
+ },
+ {
+  "p": 26,
+  "ch": "ksa",
+  "t": "Aj'yal — design loads and wastewater fractions",
+  "d": "At 105 MLD: 430,000 population equivalent, 105,780 m³/day average, 12,561 m³/h peak hourly and 181,413 m³/day peak daily flow. COD is fractionated into readily biodegradable, non-colloidal slowly biodegradable, unbiodegradable soluble and unbiodegradable particulate components for the model.",
+  "meta": "Al Khobar, Saudi Arabia · NWC"
+ },
+ {
+  "p": 27,
+  "ch": "ksa",
+  "t": "Aj'yal — where the plant fails at 105 MLD",
+  "d": "Checks flagged the constraints: primary sedimentation overflow rate 7.10 m³/m²/h against a limit of 5, detention time 0.54 h against 0.70, and a required biological reactor volume of 42,000 m³ against the 28,000 m³ available.",
+  "meta": "Al Khobar, Saudi Arabia · NWC"
+ },
+ {
+  "p": 28,
+  "ch": "ksa",
+  "t": "Aj'yal — secondary clarifier check",
+  "d": "Four 40 m clarifiers: surface overflow rate 1.42 m/h at average and 2.34 m/h at peak against limits of 1.0 and 2.0; solids loading 121 and 199 kg SS/m²·day against 100 and 192; retention time 2.20 h and 1.33 h against 3.0 and 1.50. Peak sludge volume of 421 ml/l was within limit.",
+  "meta": "Al Khobar, Saudi Arabia · NWC"
+ },
+ {
+  "p": 29,
+  "ch": "ksa",
+  "t": "Aj'yal — tertiary treatment and disinfection",
+  "d": "Eight filters (one standby, one backwash) run at a peak filter velocity of 25 m/h against a limit of 15, and two chlorine tanks totalling 4,150 m³ give 0.32 h detention at peak hourly flow against a required 0.50 h.",
+  "meta": "Al Khobar, Saudi Arabia · NWC"
+ },
+ {
+  "p": 30,
+  "ch": "egypt",
+  "t": "EBRD — water pollution control in Qarun Lake",
+  "d": "EBRD provided a sovereign loan of up to EUR 186 million to Egypt, co-financed by up to EUR 172 million from the European Investment Bank and a EUR 30 million investment grant from the EU Neighbourhood Investment Facility, supporting the Bank's Green Economy Transition approach. Scope included ESIA studies for 25 facilities to EEAA guidelines for construction and operation permits, the same studies to EBRD guidelines as a requisite of the finance process, stakeholder engagement plans, and public consultations and hearings at site locations.",
+  "meta": "Fayoum, Egypt · 2020"
+ },
+ {
+  "p": 31,
+  "ch": "egypt",
+  "t": "Qarun Lake — programme launch",
+  "d": "Programme meeting with the Fayoum authorities.",
+  "meta": "Fayoum, Egypt · 2020"
+ },
+ {
+  "p": 32,
+  "ch": "egypt",
+  "t": "Qarun Lake — Phase 1 scope",
+  "d": "Delivered in two phases, with Phase 1 under this contract: construction of 4 new wastewater treatment plants, expansion of 7 existing plants, rehabilitation of 10, decommissioning of 6, expansion of the sewer network by approximately 2,350 km, construction of approximately 260 km of pressurised rising mains and around 100 new pumping stations, and procurement of 150 evacuation trucks.",
+  "meta": "Fayoum, Egypt · 2020"
+ },
+ {
+  "p": 33,
+  "ch": "egypt",
+  "t": "Qarun Lake — design approach",
+  "d": "Design of new and enhanced plants for FWWC addressed four drivers — public health, environmental protection, water conservation and whole-life-cycle cost — trading reduced OPEX and higher land area with simpler operation against high OPEX, reduced land area and complex operation.",
+  "meta": "Fayoum, Egypt · EBRD, HCWW, FWWC"
+ },
+ {
+  "p": 34,
+  "ch": "egypt",
+  "t": "Qarun Lake — design objectives",
+  "d": "The plants were set to maximise reliability and robustness, treatment and sludge process efficiency, reuse potential, flexibility of discharge, future adaptability and residuals such as power generation; and to minimise capital and operating cost, maintenance, power and chemical use, environmental impact, manning, odour and emissions.",
+  "meta": "Fayoum, Egypt"
+ },
+ {
+  "p": 35,
+  "ch": "egypt",
+  "t": "Qarun Lake — process flow diagram",
+  "d": "Treatment train from inlet chamber, screens and grit removal through oxidation ditches and final sedimentation to the chlorination contact tank and flow meter, with activated and thickened sludge pumping, sludge thickener, drying beds and internal pumping station.",
+  "meta": "Fayoum, Egypt"
+ },
+ {
+  "p": 36,
+  "ch": "egypt",
+  "t": "Qarun Lake — design deliverables",
+  "d": "Outputs spanned process flow diagrams, hydraulic profiles, geotechnical surveys, operating and process control philosophies, influent and effluent criteria, electrical drawings, process unit sizing, mechanical technical schedules, P&IDs, FDS, performance schedules, commissioning plan, site layout and pipe routes, and a pre-tender health and safety plan — with HAZOP attendance and action closure among the required tasks.",
+  "meta": "Fayoum, Egypt"
+ },
+ {
+  "p": 37,
+  "ch": "egypt",
+  "t": "Qarun Lake — hydraulic modelling",
+  "d": "Network model and hydraulic profile through the works, tracking soffit, invert, water level and energy level across the drainage chain.",
+  "meta": "Fayoum, Egypt"
+ },
+ {
+  "p": 38,
+  "ch": "egypt",
+  "t": "Egyptian Army National Services Projects — Arab Organization for Industrialization",
+  "d": "Planning, execution and completion of awarded projects to strict deadlines and budget, acquiring resources and coordinating team and third-party effort. Works included Marsa Matrouh STP (60,000 m³/day, EA process), Busilia El Sebia STP (27,000 m³/day, MBBR), Al Kalah Sharq STP (6,000 m³/day, MBBR), the Itssa 800 mm water supply pipeline, Al Balmoon STP (10,000 m³/day, MBBR), sanitary drainage projects at Al Monofia–Ashmoon, Al Gharabia–Al Salween, Al Behira–Kafr Al Dafwary, Aswan–Edfu and Al Mahala, and Siwa STP (10,000 m³/day, oxidation pond).",
+  "meta": "Egypt · 2019"
+ },
+ {
+  "p": 39,
+  "ch": "egypt",
+  "t": "AOI projects — site team",
+  "d": "Site visit with the project team at one of the treatment works.",
+  "meta": "Egypt · 2019"
+ },
+ {
+  "p": 40,
+  "ch": "teaching",
+  "t": "Ain Shams University — infrastructure planning",
+  "d": "Teaching infrastructure planning to the Architectural Department, Faculty of Engineering.",
+  "meta": "Cairo, Egypt · semesters 2018/2019"
+ },
+ {
+  "p": 41,
+  "ch": "teaching",
+  "t": "Delta University — sanitary engineering",
+  "d": "Fourth-year civil sanitary engineering teaching and graduation project supervision, Faculty of Engineering, Civil Department.",
+  "meta": "Egypt · semesters 2017/2018"
+ },
+ {
+  "p": 42,
+  "ch": "teaching",
+  "t": "Delta University — laboratory session",
+  "d": "Laboratory demonstration with fourth-year civil students as part of the sanitary engineering course.",
+  "meta": "Egypt · semesters 2017/2018"
+ },
+ {
+  "p": 43,
+  "ch": "ksa",
+  "t": "Al Baha region water supply master plan",
+  "d": "Planning of water resources and supply of safe potable water under controlled pressure from treatment facilities to homes and businesses — designing distribution networks and hydraulic modelling in WaterGEMS, with a geo-database built in ArcGIS. Work covered treatment plant performance evaluation and upgrading, and the effects of operational interventions such as valve position and pump speed on the division of flows through individual treatment units, using extended-period dynamic simulation to model future improvements.",
+  "meta": "Al Baha, Saudi Arabia · 2016–2017 · Ministry of Water & Environment"
+ },
+ {
+  "p": 44,
+  "ch": "ksa",
+  "t": "Al Baha master plan — scope",
+  "d": "Upgrading and rehabilitation of water treatment plants at the surface water dam intake; distribution system, elevated storage and wellhead protection plan evaluation; public meetings and citizens' groups; water rate analysis and cost of service study; hydrologic and hydraulic analysis; systematic documentation of facility experience; GIS-based design and storage tank positioning with source selection; ArcGIS 10.40 network planning; a digital elevation model at 5 m grid with ETM+ satellite imagery for the geospatial design; and WaterGEMS simulation of the distribution system.",
+  "meta": "Al Baha, Saudi Arabia · 2016"
+ },
+ {
+  "p": 45,
+  "ch": "ksa",
+  "t": "Al Baha — field survey",
+  "d": "Site inspection across the dam intake, storage reservoirs and wellhead locations.",
+  "meta": "Al Baha, Saudi Arabia · 2016"
+ },
+ {
+  "p": 46,
+  "ch": "ksa",
+  "t": "Al Baha — regional supply system",
+  "d": "Regional schematic of the Al Baha water supply system across the governorates, showing the Al Sarah and Tehama sectors.",
+  "meta": "Al Baha, Saudi Arabia · 2016"
+ },
+ {
+  "p": 47,
+  "ch": "ksa",
+  "t": "Al Baha — reservoir and pumping schematic",
+  "d": "System schematic linking the Al Aqiq and Wadi Thurad dam intakes and wellfields through pumping stages to the Al Shahba (11,800 m³), Umm Ghaith (10,000 m³) and district reservoirs.",
+  "meta": "Al Baha, Saudi Arabia · 2016"
+ },
+ {
+  "p": 48,
+  "ch": "ksa",
+  "t": "Al Baha — network geo-database",
+  "d": "Georeferenced network map of supply infrastructure across the region, built for the ArcGIS database.",
+  "meta": "Al Baha, Saudi Arabia · 2016"
+ },
+ {
+  "p": 49,
+  "ch": "ksa",
+  "t": "Al Baha — future water balance",
+  "d": "Projected water balance to the target year 1481 AH, setting capacity against demand and consumption and quantifying the resulting deficit.",
+  "meta": "Al Baha, Saudi Arabia · 2016"
+ },
+ {
+  "p": 50,
+  "ch": "ksa",
+  "t": "Al Baha — facility condition survey",
+  "d": "Inspection of wellheads, pumping and chlorination buildings and distribution assets across the region.",
+  "meta": "Al Baha, Saudi Arabia · 2016"
+ },
+ {
+  "p": 51,
+  "ch": "ksa",
+  "t": "Al Baha — GIS output",
+  "d": "Geospatial outputs: interpolated surfaces over the region and the assembled network coverage by governorate.",
+  "meta": "Al Baha, Saudi Arabia · 2016"
+ },
+ {
+  "p": 52,
+  "ch": "ksa",
+  "t": "Al Baha — strategic transmission schematic",
+  "d": "Proposed strategic reservoir and transmission arrangement linking the Al Aqiq and Thurad dam supplies, the Qarn Zabi and Bani Zabyan pumping stages and the desalination line to Al Baha city networks.",
+  "meta": "Al Baha, Saudi Arabia · 2016"
+ },
+ {
+  "p": 53,
+  "ch": "ksa",
+  "t": "Al Baha — proposed network expansion",
+  "d": "Sub-system schematic showing existing and proposed reservoirs, pumping stations and distribution networks fed from the Wadi Alieb wellfield.",
+  "meta": "Al Baha, Saudi Arabia · 2016"
+ },
+ {
+  "p": 54,
+  "ch": "ksa",
+  "t": "Al Baha — extended period simulation",
+  "d": "Reservoir level behaviour over a 96-hour extended-period simulation, tracking percentage full for each tank in the base scenario.",
+  "meta": "Al Baha, Saudi Arabia · 2016"
+ },
+ {
+  "p": 55,
+  "ch": "ksa",
+  "t": "Al Baha — 48-hour reservoir behaviour",
+  "d": "A second extended-period run over 48 hours across the Adwan, Al Kohla, Al Khalb, Belkhazmer, Sadhan, Dos, Bani Hassan and Al Halah reservoirs, exposing tanks that drain and tanks that never turn over.",
+  "meta": "Al Baha, Saudi Arabia · 2016"
+ },
+ {
+  "p": 56,
+  "ch": "ksa",
+  "t": "Al Baha — affected zone and booster proposal",
+  "d": "Network map identifying the under-served zone between the Tharaween and Bayda reservoirs and the location of proposed booster station no. 1.",
+  "meta": "Al Baha, Saudi Arabia · 2016"
+ },
+ {
+  "p": 57,
+  "ch": "ksa",
+  "t": "Al Baha — pressure zones and boosters",
+  "d": "Regional network divided into pressure zones with four proposed booster stations serving Al Baha, Al Mikhwah and Ghamid Al Zinad.",
+  "meta": "Al Baha, Saudi Arabia · 2016"
+ },
+ {
+  "p": 58,
+  "ch": "ksa",
+  "t": "Al Baha — distribution schematic",
+  "d": "Detailed schematic of reservoirs, pumping stations and branch networks across the city supply area, distinguishing existing, proposed and out-of-service assets.",
+  "meta": "Al Baha, Saudi Arabia · 2016"
+ },
+ {
+  "p": 59,
+  "ch": "ksa",
+  "t": "Al Baha — GPR and GPS survey",
+  "d": "Ground-penetrating radar and RTK GPS survey to locate buried assets and fix network geometry, logged at RTK fixed accuracy of 6 mm horizontal and 15 mm vertical.",
+  "meta": "Al Baha, Saudi Arabia · 2016"
+ },
+ {
+  "p": 60,
+  "ch": "ksa",
+  "t": "Al Baha — treatment plant process diagram",
+  "d": "Process and instrumentation diagram of the regional water treatment plant serving the master plan area.",
+  "meta": "Al Baha, Saudi Arabia · 2016"
+ },
+ {
+  "p": 61,
+  "ch": "ksa",
+  "t": "Al Baha — dam and intake works",
+  "d": "Site record of the surface water dams and intake structures feeding the regional supply.",
+  "meta": "Al Baha, Saudi Arabia · 2016"
+ },
+ {
+  "p": 62,
+  "ch": "oman",
+  "t": "Haya Water — A'Seeb STP, 120,000 m³/day ICEAS",
+  "d": "Phase II covered design, procurement, installation, testing and commissioning of electro-mechanical and ICA works to expand the plant to 120,000 m³/day, with SBR-treated water further processed through an ultra-filtration membrane system. EMG carried out BioWin dynamic simulation and process modelling to analyse plant behaviour under multiple wastewater inputs, taking the design from conceptual study through to a level suitable for EPC implementation, and ran the value management and engineering workshop for Phase II. The conceptual design was peer reviewed and approved by Dr. Knollmann, the German consultant.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 63,
+  "ch": "oman",
+  "t": "A'Seeb — process flowsheet",
+  "d": "Influent of 120,000 m³/day split through a distribution chamber into two streams feeding four SBR basins of four compartments each, with ferric chloride dosing, decant and sludge draw-off from every basin.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 64,
+  "ch": "oman",
+  "t": "A'Seeb — influent characterisation",
+  "d": "Model influent: 120,000 m³/day at 420 mg/L carbonaceous BOD, 325 mg/L volatile suspended solids, 435 mg/L total suspended solids, 58 mg N/L TKN, 12 mg P/L total phosphorus, pH 7.30, alkalinity 6.00 mmol/L, calcium 80 mg/L and magnesium 15 mg/L.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 65,
+  "ch": "oman",
+  "t": "A'Seeb — SBR configuration",
+  "d": "Each of the four SBR units modelled at 21,750 m³ volume, 3,955 m² area and 5.50 m depth with 14,470 diffusers, run at a 2.0 mg/L dissolved oxygen setpoint and 20 °C average temperature.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 66,
+  "ch": "oman",
+  "t": "A'Seeb — aeration parameters",
+  "d": "Oxygen transfer parameters per basin: alpha 0.50, beta 0.95, surface pressure 101.325 kPa, fractional effective saturation depth 0.325, diffuser area 0.0410 m² at 15 per cent floor coverage, with supply and off-gas composition defined for the model.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 67,
+  "ch": "oman",
+  "t": "BioWin album — influent",
+  "d": "Full influent state for the simulation: total COD 848.27 mg/L (101,792 kg/day), particulate COD 517.76 mg/L, filtered COD 330.50 mg/L, total nitrogen 58.00 mg/L, soluble phosphate 6.00 mg/L, volatile fatty acids 20.36 mg/L and alkalinity 6.00 mmol/L.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 68,
+  "ch": "oman",
+  "t": "BioWin — air flow rate",
+  "d": "Modelled air flow across the four SBR basins over a full day, cycling between roughly 4,000 and 8,500 m³/h per basin as the batches sequence.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 69,
+  "ch": "oman",
+  "t": "BioWin — oxygen transfer rate",
+  "d": "Oxygen transfer rate per basin over the daily cycle, peaking near 350 kg/h at the start of each aeration phase.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 70,
+  "ch": "oman",
+  "t": "BioWin — dissolved oxygen",
+  "d": "Dissolved oxygen trace within a single basin, holding around 2 mg/L through aeration and falling away during settle and decant.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 71,
+  "ch": "oman",
+  "t": "BioWin — oxygen utilisation rate",
+  "d": "Total oxygen utilisation rate across the four basins over 24 hours, cycling between roughly 40 and 70 mg O₂/L·h.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 72,
+  "ch": "oman",
+  "t": "BioWin — predicted effluent quality",
+  "d": "Secondary effluent predicted at roughly 1–2 mg N/L ammonia, 3–5 mg N/L nitrite plus nitrate and 1–3 mg/L carbonaceous BOD across the daily cycle.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 73,
+  "ch": "oman",
+  "t": "A'Seeb — SBR liquid hold-up",
+  "d": "Liquid volume in each of the four basins across the day, filling and decanting between roughly 11,000 and 16,500 m³ on a staggered cycle.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 74,
+  "ch": "oman",
+  "t": "A'Seeb — suspended solids response",
+  "d": "Total suspended solids within each basin through fill, react, settle and decant, peaking near 7,500 mg/L before settlement.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 75,
+  "ch": "oman",
+  "t": "A'Seeb — nitrate response",
+  "d": "Nitrate nitrogen inside the basins over the cycle, held between about 1 and 7 mg N/L as denitrification follows each aerated phase.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 76,
+  "ch": "oman",
+  "t": "A'Seeb — ammonia response",
+  "d": "Ammonia nitrogen inside the basins, rising on fill and driven back below 1 mg N/L by the end of each aeration phase.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 77,
+  "ch": "oman",
+  "t": "A'Seeb — phosphate response",
+  "d": "Soluble and metal-complexed phosphate through the cycle, showing anaerobic release to around 24 mg P/L followed by uptake.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 78,
+  "ch": "oman",
+  "t": "A'Seeb — oxygen utilisation response",
+  "d": "Total oxygen utilisation rate per basin, cycling to roughly 100 mg O₂/L·h at the start of each aerated phase.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 79,
+  "ch": "oman",
+  "t": "A'Seeb — pH response",
+  "d": "Basin pH held in a narrow band between about 6.5 and 6.7 across the full cycle.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 80,
+  "ch": "oman",
+  "t": "A'Seeb — wastage flows",
+  "d": "Sludge wastage events from each basin, drawn at around 20,000 units of flow on the staggered batch schedule.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 81,
+  "ch": "oman",
+  "t": "A'Seeb — decant suspended solids",
+  "d": "Suspended solids carried over in the decant from each basin, with flow-weighted composite values between roughly 80 and 200 mg/L.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 82,
+  "ch": "oman",
+  "t": "A'Seeb — decant ammonia",
+  "d": "Decant ammonia across the four basins, with flow-weighted composites around 1.0–1.5 mg N/L.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 83,
+  "ch": "oman",
+  "t": "A'Seeb — decant nitrate",
+  "d": "Decant nitrate across the four basins, with flow-weighted composites of roughly 3 mg N/L.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 84,
+  "ch": "oman",
+  "t": "A'Seeb — decant phosphate",
+  "d": "Decant phosphate across the four basins, with flow-weighted composites around 4 mg P/L.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 85,
+  "ch": "oman",
+  "t": "A'Seeb — dissolved oxygen concentrations",
+  "d": "Dissolved oxygen across all four basins on the staggered cycle, swinging between zero and about 2.7 mg/L.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 86,
+  "ch": "oman",
+  "t": "A'Seeb — mass balance to 2030",
+  "d": "Whole-plant mass balance carried forward to the 2030 design horizon, tracking flow and load through screening, the SBR basins, ultra-filtration, thickening and centrifuge dewatering.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 87,
+  "ch": "oman",
+  "t": "A'Seeb — plant inspection",
+  "d": "Walkdown of the completed treatment galleries.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 88,
+  "ch": "oman",
+  "t": "A'Seeb — SBR basin",
+  "d": "An SBR basin in service, showing the mixed liquor surface during the react phase.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 89,
+  "ch": "oman",
+  "t": "A'Seeb — commissioning",
+  "d": "Commissioning works on the basin deck and decanter equipment.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 90,
+  "ch": "oman",
+  "t": "A'Seeb — settled basin",
+  "d": "A basin at the end of the settle phase before decanting.",
+  "meta": "Muscat, Oman · 2014–2015"
+ },
+ {
+  "p": 91,
+  "ch": "oman",
+  "t": "Salalah wastewater treatment and reclamation plant",
+  "d": "Designed and commissioned for an average flow of 30,000 m³/day using single-stage suspended-growth activated sludge with combined nitrification and denitrification, followed by advanced tertiary treatment, achieving 98 per cent overall removal for BOD₅, TSS and total nitrogen. Final treated effluent is supplied to customers for irrigation, landscaping, groundwater aquifer recharge, cooling and industrial use, and must comply with WHO reuse guidelines and Omani Royal Decree 115/2004. Design basis: 150,000 population equivalent, 30,000 m³/day average daily and 1,250 m³/h average hourly flow, peak daily factor 1.83 giving 55,000 m³/day.",
+  "meta": "Salalah, Oman · 2013 · Salalah Sanitary Drainage Services"
+ },
+ {
+  "p": 92,
+  "ch": "oman",
+  "t": "Salalah — client workshops and site work",
+  "d": "Design workshops with Salalah Sanitary Drainage Services and site inspection, September 2013.",
+  "meta": "Salalah, Oman · 2013"
+ },
+ {
+  "p": 93,
+  "ch": "oman",
+  "t": "Salalah — sludge age and stabilisation modelling",
+  "d": "Simulation of sludge age and stabilisation through the process, run out past 1,500 elapsed hours to confirm steady-state solids inventory.",
+  "meta": "Salalah, Oman · 2013"
+ },
+ {
+  "p": 94,
+  "ch": "oman",
+  "t": "Salalah — flow served area",
+  "d": "Catchment plan showing the North and South Sahalnoot and North Awqad service areas, the main pumping stations and the force mains to the works.",
+  "meta": "Salalah, Oman · 2013"
+ },
+ {
+  "p": 95,
+  "ch": "oman",
+  "t": "Salalah — plant general layout",
+  "d": "General arrangement from inlet works and mechanical screening through grit separation to the oxidation basins, selector tank and treated effluent outfall.",
+  "meta": "Salalah, Oman · 2013"
+ },
+ {
+  "p": 96,
+  "ch": "oman",
+  "t": "Salalah — city-wide drainage scheme",
+  "d": "Overall sanitary drainage scheme for the city: gravity collector sewers, trunk gravity and trunk force mains, area and main pumping stations, manholes and the water reclamation plant.",
+  "meta": "Salalah, Oman · 2013"
+ },
+ {
+  "p": 97,
+  "ch": "yemen",
+  "t": "Greater Aden water & sanitation utilities development programme",
+  "d": "Aden is Yemen's second largest city and, as the country's main seaport, its economic capital, sited at the southern tip of the Arabian Peninsula some 170 km east of the Bab el-Mandeb strait. The Ministry of Planning and International Cooperation, for the Government of Yemen, signed an agreement with the Arab Fund for Economic and Social Development to finance the Aden Water and Sanitation Utilities Development Project, part of a large-scale investment programme for water and wastewater services across Aden Governorate. Greater Aden's total average daily water demand was 3,500 l/s serving a population of 1.5 million.",
+  "meta": "Aden, Yemen · 2011–2012 · Ministry of Water & Environment"
+ },
+ {
+  "p": 98,
+  "ch": "yemen",
+  "t": "Aden — hydraulic modelling task",
+  "d": "Water distribution extended-period hydraulic modelling in WaterCAD (Bentley), allowing both instantaneous steady-state and dynamic 24-hour network simulation to analyse the piping system's response to varying supply and demand schedules, carried from conceptual design study through to detailed design.",
+  "meta": "Aden, Yemen · 2011–2012"
+ },
+ {
+  "p": 99,
+  "ch": "yemen",
+  "t": "Aden — environmental and institutional studies",
+  "d": "An environmental impact assessment was prepared for the construction works of the water and wastewater components, enabling the approving authority, the public, local and central government and the developer to consider the potential environmental consequences of the proposal and to recommend mitigation — providing the basis for sound ongoing environmental management. An institutional and social study was also prepared to assess the capacity of the Local Water and Sanitation Authority in Aden City.",
+  "meta": "Aden, Yemen · 2011–2012"
+ },
+ {
+  "p": 100,
+  "ch": "yemen",
+  "t": "Aden — water demand to 2025",
+  "d": "District-by-district water demand projection for 2025 across Khormaksar, Crater, Ma'alla, Tawahi, Sheikh Othman, Dar Sa'ad, Mansoura, Buraiqah and Green City — a served population of 1,500,003 and total water production of 98.525 million m³/year, allowing 20 per cent losses.",
+  "meta": "Aden, Yemen · 2011–2012"
+ },
+ {
+  "p": 101,
+  "ch": "yemen",
+  "t": "Aden — wastewater production 2015",
+  "d": "Wastewater production by district for 2015 across current built, new development and new expansion areas — a total population of 954,273 over 8,682 ha, with 90 per cent water served and per-capita consumption between 75 and 105 l/c/d.",
+  "meta": "Aden, Yemen · 2011–2012"
+ },
+ {
+  "p": 102,
+  "ch": "yemen",
+  "t": "Aden — site reconnaissance",
+  "d": "Field reconnaissance across the governorate with the local water and sanitation authority, December 2011.",
+  "meta": "Aden, Yemen · 2011"
+ },
+ {
+  "p": 103,
+  "ch": "yemen",
+  "t": "Aden — project offices and laboratory",
+  "d": "Project signage recording the financing by the Republic of Germany through KfW, the joint-venture consultant with Dorsch Germany and the contractor, together with laboratory and site visits.",
+  "meta": "Aden, Yemen · 2011"
+ },
+ {
+  "p": 104,
+  "ch": "yemen",
+  "t": "Aden — coastal and wastewater survey",
+  "d": "Survey of the coastline, existing outfalls and wastewater ponding, with stakeholder meetings.",
+  "meta": "Aden, Yemen · 2011"
+ },
+ {
+  "p": 105,
+  "ch": "yemen",
+  "t": "Aden — stakeholder consultation",
+  "d": "Consultation sessions with the utility and community representatives, December 2011 to January 2012.",
+  "meta": "Aden, Yemen · 2011–2012"
+ },
+ {
+  "p": 106,
+  "ch": "yemen",
+  "t": "Aden — regional resource zones",
+  "d": "Governorate-scale plan of the Bir Nasser, Bir Ahmed and other water resource zones with existing and proposed reservoirs, pumping stations and main lines around the Gulf of Aden.",
+  "meta": "Aden, Yemen · 2011–2012"
+ },
+ {
+  "p": 107,
+  "ch": "yemen",
+  "t": "Aden — distribution network model",
+  "d": "City distribution network modelled by district zone, with pipe diameters from 100 mm to 1,100 mm colour-coded across the modelled area.",
+  "meta": "Aden, Yemen · 2011–2012"
+ },
+ {
+  "p": 108,
+  "ch": "yemen",
+  "t": "Aden — proposed works on satellite base",
+  "d": "Proposed transmission mains, pumping stations and reservoir sites overlaid on satellite imagery of the peninsula.",
+  "meta": "Aden, Yemen · 2011–2012"
+ },
+ {
+  "p": 109,
+  "ch": "yemen",
+  "t": "Aden — waste stabilisation pond layout",
+  "d": "General arrangement of the treatment ponds, showing facultative cells F1–F8 and maturation cells M5–M10 with their inlet and outlet arrangements.",
+  "meta": "Aden, Yemen · 2011–2012"
+ },
+ {
+  "p": 110,
+  "ch": "yemen",
+  "t": "Aden — existing pumping station context",
+  "d": "Satellite plan locating the existing pumping station and its connection through the port district.",
+  "meta": "Aden, Yemen · 2011–2012"
+ },
+ {
+  "p": 111,
+  "ch": "yemen",
+  "t": "Aden — pond design detail",
+  "d": "Pond layout with design parameters marked for each cell — anaerobic ponds by total volume, and facultative and maturation ponds by water depth and mid-depth area.",
+  "meta": "Aden, Yemen · 2011–2012"
+ },
+ {
+  "p": 112,
+  "ch": "yemen",
+  "t": "Aden — transmission main performance",
+  "d": "Modelled flow and velocity in the pipeline from Slaughter House station to Cathedral Hill tank for the 2025 scenario, running about 272–281 l/s at 1.11–1.16 m/s over a 70-hour simulation.",
+  "meta": "Aden, Yemen · 2011–2012"
+ },
+ {
+  "p": 113,
+  "ch": "yemen",
+  "t": "Aden — Bir Ahmed reservoir behaviour",
+  "d": "Bir Ahmed reservoir level and percentage full through the 2025 extended-period run, cycling between roughly 55 and 100 per cent full at 2.25–4.00 m depth.",
+  "meta": "Aden, Yemen · 2011–2012"
+ },
+ {
+  "p": 114,
+  "ch": "yemen",
+  "t": "Aden — pump operating curves",
+  "d": "Operating curves for pumps 1, 2 and 3 in the 2025 scenario, showing duty flows up to about 250 l/s against heads around 40 m as units cycle in and out.",
+  "meta": "Aden, Yemen · 2011–2012"
+ },
+ {
+  "p": 115,
+  "ch": "yemen",
+  "t": "Aden — reservoir fluctuation 2025",
+  "d": "Hydraulic grade and percentage full for reservoir T-20 across the maximum-hour 2025 scenario, drawing down to about 20 per cent on the daily cycle.",
+  "meta": "Aden, Yemen · 2011–2012"
+ },
+ {
+  "p": 116,
+  "ch": "yemen",
+  "t": "Aden — elevated tank fluctuation 2025",
+  "d": "Elevated tank T-18 behaviour, holding full for long periods with sharp draw-down events to near empty — a pattern indicating supply scheduling rather than continuous operation.",
+  "meta": "Aden, Yemen · 2011–2012"
+ },
+ {
+  "p": 117,
+  "ch": "ksa",
+  "t": "Al Khumrah main lifting station — 12 m³/s physical modelling",
+  "d": "To verify the pumping station's operation, testing covered the screens and wet well arrangement under all operating levels, inflow rates and pump combinations to identify adverse conditions; flow pattern and no-flow zones in the sumps; flow patterns through the screening sets; air and submerged vortices at the pump intakes; flow profile at the intakes including velocities and pre-swirl; and the minimum acceptable pump operating levels. Validating a hydraulic structure design requires building a physical model under similitude laws, which allow model results to be extrapolated to the prototype.",
+  "meta": "Jeddah, Saudi Arabia · 2010 · General Water Directorate & NWC JCBU"
+ },
+ {
+  "p": 118,
+  "ch": "ksa",
+  "t": "Al Khumrah — prototype section",
+  "d": "Sectional drawing of the lifting station as built, at prototype scale 1:1.",
+  "meta": "Jeddah, Saudi Arabia · 2010"
+ },
+ {
+  "p": 119,
+  "ch": "ksa",
+  "t": "Al Khumrah — physical model",
+  "d": "The hydraulic laboratory model of the circular wet well and pump intakes, built at 1:8 scale.",
+  "meta": "Jeddah, Saudi Arabia · 2010"
+ },
+ {
+  "p": 120,
+  "ch": "ksa",
+  "t": "Al Khumrah — model testing",
+  "d": "Observation and measurement on the physical model, including dye and vortex studies at the intakes.",
+  "meta": "Jeddah, Saudi Arabia · 2010"
+ },
+ {
+  "p": 121,
+  "ch": "ksa",
+  "t": "Al Khumrah — model build and review",
+  "d": "Model construction and technical review sessions in the hydraulics laboratory.",
+  "meta": "Jeddah, Saudi Arabia · 2010"
+ },
+ {
+  "p": 122,
+  "ch": "ksa",
+  "t": "Al Khumrah — prototype and model side by side",
+  "d": "The constructed wet well and screening channels against the corresponding model arrangement.",
+  "meta": "Jeddah, Saudi Arabia · 2010"
+ },
+ {
+  "p": 123,
+  "ch": "ksa",
+  "t": "Al Khumrah — test findings",
+  "d": "Three flow scenarios were observed — minimum 2 m³/s, average 6 m³/s and maximum 12 m³/s — covering the design conditions. Final testing showed some pump combinations at lower water levels producing higher pre-swirl rotation, but all pre-swirl remained within acceptable limits and a pump type tolerant to 5 degrees of pre-swirl was selected. The testing proved the suitability of the pumping station configuration as developed, confirmed the general arrangement and identified various minor improvements.",
+  "meta": "Jeddah, Saudi Arabia · 2010"
+ },
+ {
+  "p": 124,
+  "ch": "ksa",
+  "t": "Al Khumrah — forebay at ultimate flow",
+  "d": "The forebay under ultimate flow conditions at 12 m³/s.",
+  "meta": "Jeddah, Saudi Arabia · 2010"
+ },
+ {
+  "p": 125,
+  "ch": "ksa",
+  "t": "Al Khumrah — pre-swirl rotation results",
+  "d": "Measured pre-swirl rotation in degrees at each pump bay around the circular wet well, with the critical positions marked.",
+  "meta": "Jeddah, Saudi Arabia · 2010"
+ },
+ {
+  "p": 126,
+  "ch": "ksa",
+  "t": "Al Khumrah — vortices and velocity distribution",
+  "d": "Observation of coherent submerged vortices at the pump intakes and approach channel flow, with the velocity distribution pattern measured across screen channels 3 to 6 — ranging from 4.9 per cent below to 6.1 per cent above average flow.",
+  "meta": "Jeddah, Saudi Arabia · 2010"
+ },
+ {
+  "p": 127,
+  "ch": "ksa",
+  "t": "Hail STP, 60 MLD — general site layout",
+  "d": "Approved general site layout for the sewage treatment plant, showing the activated sludge pump station relative to the existing works.",
+  "meta": "Hai'l, Saudi Arabia · 2010 · Ministry of Water"
+ },
+ {
+  "p": 128,
+  "ch": "ksa",
+  "t": "Hail STP — process and instrumentation",
+  "d": "Full P&ID for the 60 MLD plant covering inlet works, biological treatment, clarification and tertiary stages.",
+  "meta": "Hai'l, Saudi Arabia · 2010"
+ },
+ {
+  "p": 129,
+  "ch": "ksa",
+  "t": "Hail STP — control and services P&ID",
+  "d": "Second P&ID sheet covering the ancillary and control systems for the 60 MLD plant.",
+  "meta": "Hai'l, Saudi Arabia · 2010"
+ },
+ {
+  "p": 130,
+  "ch": "ksa",
+  "t": "Jeddah Al Khumrah STP expansion, 250 MLD — layout",
+  "d": "Expansion layout for the plant, setting the new treatment blocks against the existing works on the surveyed site.",
+  "meta": "Jeddah, Saudi Arabia · 2009 · General Water Directorate & NWC JCBU"
+ },
+ {
+  "p": 131,
+  "ch": "ksa",
+  "t": "Jeddah Al Khumrah expansion — mass balance",
+  "d": "Mass balance across the 250 MLD expansion, taking 50,000 m³/day of domestic wastewater at 330 mg/L BOD₅ and 2,500 m³/day of industrial wastewater at 2,150 mg/L BOD₅ through equalisation, chemical dosing, primary clarification, biological treatment, secondary clarification, filtration and disinfection, with return activated sludge at 50,000 m³/day.",
+  "meta": "Jeddah, Saudi Arabia · 2009"
+ },
+ {
+  "p": 132,
+  "ch": "ksa",
+  "t": "West Makkah STP, 250 MLD — process and instrumentation",
+  "d": "P&ID for the 250 MLD works, showing the parallel treatment streams and their control.",
+  "meta": "Makkah, Saudi Arabia · 2008 · Ministry of Water"
+ },
+ {
+  "p": 133,
+  "ch": "ksa",
+  "t": "West Makkah STP — full plant P&ID",
+  "d": "Complete process and instrumentation diagram for the 250 MLD works, showing the full bank of parallel treatment trains.",
+  "meta": "Makkah, Saudi Arabia · 2008 · Ministry of Water"
+ },
+ {
+  "p": 134,
+  "ch": "ecology",
+  "t": "Starah wind power project — avifaunal survey",
+  "d": "A preliminary avifaunal survey along the survey corridor for the Starah wind power project.",
+  "meta": "Saudi Arabia · Green Plus"
+ },
+ {
+  "p": 135,
+  "ch": "ecology",
+  "t": "NEOM — bird baseline",
+  "d": "Bird baseline monitoring running from February 2022 onward.",
+  "meta": "NEOM, Saudi Arabia · 2022– · Green Plus"
+ },
+ {
+  "p": 136,
+  "ch": "ecology",
+  "t": "NEOM — project areas surveyed",
+  "d": "Survey coverage across the NEOM development areas: The Line, Midyan, Al Sourah, Aqaba Wind Park, Bajdah, Ebiriq, Gap, Haql and Ras Alsheikh Khamid.",
+  "meta": "NEOM, Saudi Arabia · Green Plus"
+ },
+ {
+  "p": 137,
+  "ch": "ecology",
+  "t": "NEOM — survey data summary",
+  "d": "Vantage point surveys deployed 35 surveyors, uploading more than 5,500 surveys over more than 12,000 survey hours. Flight activity recorded more than 120 target species, more than 40,000 flights and more than 80,000 individual birds.",
+  "meta": "NEOM, Saudi Arabia · Green Plus"
+ },
+ {
+  "p": 138,
+  "ch": "ecology",
+  "t": "Al Wajh marine environment survey",
+  "d": "Marine environment and body-of-water characteristics survey for Cruise Saudi, delivered with EnviGlobe and Green Plus.",
+  "meta": "Al Wajh, Saudi Arabia · January 2023"
+ },
+ {
+  "p": 139,
+  "ch": "ecology",
+  "t": "Al Wajh — study objective",
+  "d": "The work provided Cruise Saudi with the information and consultation needed to support selecting the best location for a tender pier able to berth tender boats of 35 m length overall and 3 m draught, and an anchorage area for large vessels of 365 m length overall and 12 m draught, near Al Wajh city on the Red Sea coast. Bathymetric, marine environment, body-of-water characteristics and topographic surveys were conducted to deliver results specified in the employer's scope of work, with the marine ecological survey used to decide the best location for the tender pier and the most suitable anchorage spot.",
+  "meta": "Al Wajh, Saudi Arabia · 2023"
+ },
+ {
+  "p": 140,
+  "ch": "ecology",
+  "t": "Al Wajh — habitat sensitivity map",
+  "d": "A habitat type (sensitivity) map produced from the collected data, prepared by EnviGlobe and Green Plus for Cruise Saudi.",
+  "meta": "Al Wajh, Saudi Arabia · 2023"
+ },
+ {
+  "p": 141,
+  "ch": "ecology",
+  "t": "Al Wajh — habitat, wave and bathymetry models",
+  "d": "The three survey products side by side: marine habitat map, wave model and bathymetry along the coastal study area.",
+  "meta": "Al Wajh, Saudi Arabia · 2023"
+ },
+ {
+  "p": 142,
+  "ch": "ecology",
+  "t": "King Salman bin Abdulaziz Royal Reserve — bird baseline",
+  "d": "The Spring Breeding Bird 2023 survey was designed to identify the distribution and abundance of bird species within the reserve during spring, informing environmental and conservation priorities for its management.",
+  "meta": "KSRNR, Saudi Arabia · 2023 · Green Plus"
+ },
+ {
+  "p": 143,
+  "ch": "ecology",
+  "t": "KSRNR — first phase of preliminary bird surveys",
+  "d": "The Royal Reserve Development Authority launched the first phase of preliminary bird surveys to assess the number, species, distribution and abundance of resident, migratory and visiting birds and to identify them; to establish migration pathways; and to protect them through ongoing monitoring and follow-up programmes, updating the database and developing the reserve's bird surveillance tourism programmes.",
+  "meta": "KSRNR, Saudi Arabia · Green Plus"
+ },
+ {
+  "p": 144,
+  "ch": "ecology",
+  "t": "Bathymetric survey — method",
+  "d": "The BathyCase system used for jet-ski operation: a Bluetooth keyboard and mouse interface with SDI's shallow-depth bottom tracking mode for very shallow water, a survey-grade 200 kHz depth sounder digitising sonic echoes at 16-bit resolution across 65,536 shades of grey with depth resolution consistent through the range, storing the full digital record for high-resolution playback. Positions, events and operator annotations exchange between HYPACK and SDIDEPTH, with DEPTHPIC and SDIDEPTH providing full echo replay and post-processing of hydrographic data.",
+  "meta": "Saudi Arabia"
+ },
+ {
+  "p": 145,
+  "ch": "germany",
+  "t": "Dr. Knollmann – Dr. Berrou Engineering — company profile",
+  "d": "For over thirty years the practice has offered, through an interdisciplinary independent team of engineers, overall services in the design, optimisation and modernisation of water and wastewater processing systems and distribution networks for public and private clients — wastewater treatment plants, waterworks, water reclamation units, reservoirs, water supply and sewer systems, pumping plants, pipelines, irrigation systems, re-use of pre-cleaned wastewater, sewer databases and water and wastewater management. Work runs from feasibility study and comparative cost evaluation through choice of treatment process, design, tender and construction supervision to commissioning, offered as turn-key projects or handled as a joint venture with clients, project partners and local experts.",
+  "meta": "Hannover &amp; Bad Oeynhausen, Germany"
+ },
+ {
+  "p": 146,
+  "ch": "germany",
+  "t": "Knollmann–Berrou agency agreement",
+  "d": "Declaration of intent between Dr. Knollmann – Dr. Berrou Engineering of Bad Oeynhausen and the consulting office of Eng. Faisal Al Mahdi in Riyadh, recording that the firms operate engineering offices in Germany, Saudi Arabia and Egypt and intend to cooperate across the GCC states.",
+  "meta": "Germany / Saudi Arabia · 2008"
+ },
+ {
+  "p": 147,
+  "ch": "germany",
+  "t": "Knollmann — trade fair partnership",
+  "d": "At the Knollmann stand during a German water technology exhibition.",
+  "meta": "Germany"
+ },
+ {
+  "p": 148,
+  "ch": "germany",
+  "t": "Gemeinde Verl — Verl-West WWTP expansion",
+  "d": "Wastewater treatment plant expansion designed and realised by Knollmann Engineering for the municipality of Verl, 1999–2003. Project cost USD 7,500,000 for 47,000 inhabitants: dry weather inlet 4,750 m³/d, raw sludge 400 m³/d and digester gas production about 850 m³/d, with a three-pump influent station, aerated grit chamber and grease trap, two settlement tanks of 210 m³ each, two aeration tanks of 4,400 m³ each with intermittent fine-bubble aeration, two secondary settlement tanks of 2,200 m³ each, a 3,550 m³ maturation pond, a 2,500 m³ digester at 39 °C and a final thickener of 519 m³.",
+  "meta": "Verl, Germany · 1999–2003"
+ },
+ {
+  "p": 149,
+  "ch": "germany",
+  "t": "Verl-West — site plan and unit schedule",
+  "d": "Site plan keyed to the mechanical part (influent pump station and screen, aerated grit chamber and grease trap, grit washer, primary settlement and sludge pumping), the biological part (distribution shaft, aeration tank, blower building, collector shaft, secondary settlement, mid-effluent measurement, maturation pond, return sludge pumping, precipitation station) and sludge treatment (thickeners, digester and pump cellar, dewatering, gas tank, gas shaft and flare, heating plant and block heating works).",
+  "meta": "Verl, Germany · 1999–2003"
+ },
+ {
+  "p": 150,
+  "ch": "germany",
+  "t": "System S&amp;P — representation letter",
+  "d": "System S&P Vertriebs-GmbH of Kirchberg/Jagst certified that EMG Group represents System S&P in the project WWTP 50 m³/d \"Jeddah K.S.A Dream\", addressed to Dr. Ahmed El-Zayat in Riyadh, 1 April 2004.",
+  "meta": "Germany / Saudi Arabia · 2004"
+ },
+ {
+  "p": 151,
+  "ch": "germany",
+  "t": "System S&amp;P — partnership",
+  "d": "With the System S&P team at the company's exhibition stand, May 2014.",
+  "meta": "Germany · 2014"
+ },
+ {
+  "p": 152,
+  "ch": "germany",
+  "t": "Compact treatment unit inspection",
+  "d": "Inspecting the internals of a packaged treatment unit in Germany.",
+  "meta": "Germany"
+ },
+ {
+  "p": 153,
+  "ch": "germany",
+  "t": "Waterleau — Al Dawasser project confirmation",
+  "d": "Waterleau Global Water Technology NV of Herent, Belgium confirmed to Dr. Ahmed El-Zayat in Riyadh that it would bid mutually exclusively via EMG to the Anasser Group for the electro-mechanical part of the Al Dawasser project, the Anasser Group having signed a subcontract agreement with Jazal Contractor. Dated 26 April 2004.",
+  "meta": "Belgium / Saudi Arabia · 2004"
+ },
+ {
+  "p": 154,
+  "ch": "germany",
+  "t": "Waterleau — agency agreement",
+  "d": "Agency agreement between Waterleau Global Water Technology NV of Herent, Belgium and Ahmed El-Zayat for EMG Saudi Arabia. Waterleau is engaged in engineering, fabrication, procurement and operation of water, wastewater, sludge, odour and off-gas treatment installations worldwide with its own proprietary systems, and its staff hold extended experience in the water, wastewater and air treatment market including management of large turn-key projects and operation and maintenance contracts.",
+  "meta": "Belgium / Saudi Arabia"
+ },
+ {
+  "p": 155,
+  "ch": "germany",
+  "t": "LimnoTec — letter of appointment",
+  "d": "LimnoTec Abwasseranlagen GmbH of Hille, Germany — experts in SBR and other technologies for municipal sewage and sludge treatment — appointed Anasser Water Treatment, represented by Ahmed El-Zayat in Riyadh, as sole agent in Saudi Arabia for marketing and sales of process engineering, supply of process equipment (mechanical, electrical and programme) and start-up, commissioning, dynamic simulation and general optimisation. Signed 4 July 2005 for a renewable three-year term.",
+  "meta": "Germany / Saudi Arabia · 2005"
+ },
+ {
+  "p": 156,
+  "ch": "germany",
+  "t": "LimnoTec — plant visit",
+  "d": "On the deck of an SBR basin with the LimnoTec team in Germany.",
+  "meta": "Germany"
+ },
+ {
+  "p": 157,
+  "ch": "germany",
+  "t": "ACHEMA 2006 invitation",
+  "d": "The German-Saudi Arabian Liaison Office for Economic Affairs invited Dr. Ahmed El-Zayat to ACHEMA 2006 in Frankfurt, the international exhibition-congress on chemical engineering, environmental protection and biotechnology, with more than 4,000 exhibitors from 50 countries and an expected 200,000 visitors from 100 countries.",
+  "meta": "Frankfurt, Germany · 2006 · AHK"
+ },
+ {
+  "p": 158,
+  "ch": "germany",
+  "t": "German Trade Delegation to Saudi Arabia",
+  "d": "Confirmation of participation in meetings with German companies at the Riyadh Chamber of Commerce on 27 May 2006, arranged with the German Trade Delegation from the German Federal State of Niedersachsen.",
+  "meta": "Riyadh, Saudi Arabia · 2006 · AHK"
+ },
+ {
+  "p": 159,
+  "ch": "ksa",
+  "t": "KACST — review of the STP proposal",
+  "d": "King Abdulaziz City for Science and Technology returned comments on the sewage treatment plant proposal: the design should consider that domestic waste contains contaminants mainly organic and sometimes inorganic; that household use means considerable quantities of oils, greases and surfactants are disposed of and their treatment should be considered; that appreciable quantities of nitrogen — especially ammonia — and phosphates are expected; and that dissolved solids concentration in untreated and treated wastewater should adhere to standards for irrigation.",
+  "meta": "Riyadh, Saudi Arabia · 2005 · KACST"
+ },
+ {
+  "p": 160,
+  "ch": "ksa",
+  "t": "Saudi Binladin Group — King Abdul Aziz Endowment, Makkah",
+  "d": "The Public Buildings and Airports Division requested technical submittals for the grey water treatment plant on the King Abdul Aziz Endowment project in Makkah, January 2005.",
+  "meta": "Makkah, Saudi Arabia · 2005 · Saudi Binladin Group"
+ },
+ {
+  "p": 161,
+  "ch": "ksa",
+  "t": "King Abdul Aziz Endowment — consultant's comments",
+  "d": "Follow-up on the grey water treatment plant submittal, enclosing the consultant's comments for compliance and response, February 2005.",
+  "meta": "Makkah, Saudi Arabia · 2005 · Saudi Binladin Group"
+ },
+ {
+  "p": 162,
+  "ch": "germany",
+  "t": "IWRM Karlsruhe 2010 — congress invitation",
+  "d": "The Franco-German Chamber of Commerce and Industry wrote to the French Consulate in Jeddah supporting travel to the IWRM conference at the Karlsruhe congress centre on 24 and 25 November 2010, with travel and accommodation costs borne by the organisers, KWK Karlsruhe.",
+  "meta": "Karlsruhe, Germany · 2010"
+ },
+ {
+  "p": 163,
+  "ch": "germany",
+  "t": "Invest in Germany — Embassy reception",
+  "d": "Invitation to a reception at the German Ambassador's residence on 19 June 2006 celebrating the 2006 FIFA World Cup, extended jointly with the German-Saudi Arabian Liaison Office for Economic Affairs under the \"Land of Ideas\" campaign.",
+  "meta": "Riyadh, Saudi Arabia · 2006"
+ },
+ {
+  "p": 164,
+  "ch": "training",
+  "t": "Training courses delivered — 1995 to 2019",
+  "d": "School Hygiene at WHO Egypt (1995); On-Site Sanitation at WHO Egypt (1996); Wastewater Pumping Station Hydraulics at FEGAWS Egypt (1997); Use of Unconventional Water in Urban Water Management, Muscat (2004); Anaerobic Digester Biogas Generation at Salalah Wastewater Co., Oman (2014); Industrial Wastewater Reuse &amp; Recycle at IPQC Abu Dhabi (2015); Monitoring Performance of Industrial Wastewater Treatment Facilities, MRMWR Muscat (2015); BioWin Simulation for Wastewater Treatment Plant at Haya Water, Muscat (2015); Industrial Wastewater Treatment, Challenges and Re-use, Sohar (2015); and Biological Wastewater Treatment Systems Applications at Metito, Cairo (2019).",
+  "meta": "Egypt · Oman · UAE · 1995–2019"
+ },
+ {
+  "p": 165,
+  "ch": "training",
+  "t": "Training courses delivered — 2020 to 2024",
+  "d": "Dynamic Simulation for ICEAS Process System, AquaEnergyExpo Riyadh (2020); Physical Losses for NRW, AquaEnergyExpo Riyadh (2021); Design of MBBR Wastewater Treatment System, Riyadh (2021); Water Pollution Control, National Water Company Riyadh (2022); Green, Blue, Water Infrastructures, OIMTEC Riyadh (2022); HAZOP for Process Treatment Systems, SWCC Riyadh (2022); Desalination Plants Water Pollution Control, SWCC (2022); Physical Modelling for Complex Hydraulic Structures, AquaEnergyExpo Riyadh (2023); and Pretreatment Stages, RO Treatment Process and Post Treatment Process for Brackish &amp; Sea Water at the Saudi Water Academy, Al Jubail (2024).",
+  "meta": "Saudi Arabia · 2020–2024"
+ },
+ {
+  "p": 166,
+  "ch": "training",
+  "t": "Applied Diploma in Water &amp; Wastewater Systems",
+  "d": "Level one of the applied diploma — planning, design and operation — covering urban water infrastructure planning and design: planning and study of infrastructure for urban cities; green, blue and grey infrastructure; water resources and water use; population forecast and water demands; design of water supply systems; types of pipes and valves; design of transmission lines; design of pumping stations; design of surface water purification plants; and water quality standards and management. Delivered with the Water Technology Experts Academy in June and July 2021.",
+  "meta": "Online · 2021"
+ },
+ {
+  "p": 167,
+  "ch": "training",
+  "t": "Online workshops — BioWin and MBBR",
+  "d": "Free online workshops on dynamic simulation and BioWin process modelling for biological treatment, using the ICEAS 120,000 CMD case study, and on MBBR process design systems, delivered live to participants across the Arab world.",
+  "meta": "Online · 2021"
+ },
+ {
+  "p": 168,
+  "ch": "training",
+  "t": "Online workshops — IFAS &amp; MBBR biological system design",
+  "d": "Workshops on the fundamentals of designing and modelling biological treatment systems using IFAS and MBBR, and on dynamic simulation and process modelling for wastewater treatment plants, run with Soul Water and the Water Technology Experts Academy.",
+  "meta": "Online · 2021"
+ },
+ {
+  "p": 169,
+  "ch": "training",
+  "t": "Webinars — physical modelling, HAZOP and climate adaptation",
+  "d": "Free online webinar on physical modelling for complex hydraulic structures — what physical modelling is, physical model versus computational fluid dynamics, and how to perform it. Alongside a Hazards &amp; Operability Study webinar covering objective, methodology, ground rules, risk ranking, study team, resources, recording software, the study workshop and risk-based recommendations; and a workshop at OMAINTEC, the 20th International Operations &amp; Maintenance Conference in the Arab Countries, on BGI as an integrated approach for climate change adaptation in Saudi Arabia.",
+  "meta": "Online &amp; Saudi Arabia · 2023–2024"
+ },
+ {
+  "p": 170,
+  "ch": "training",
+  "t": "AquaEnergyExpo — HAZOP and water pollution treatment",
+  "d": "Webinar on the Hazards &amp; Operability Study, and a National Water Company knowledge-hour session on the fundamentals of water pollution treatment, December 2021.",
+  "meta": "Saudi Arabia · 2021"
+ },
+ {
+  "p": 171,
+  "ch": "training",
+  "t": "RO desalination plant performance assessment",
+  "d": "Open online webinar covering the basics of reverse osmosis, factors affecting reverse osmosis and nanofiltration performance, RO plant performance calculations, membrane fouling, RO plant system performance assessment, and RO data trending and normalisation — alongside a session on Saudi Arabia as the world leader in the desalination industry.",
+  "meta": "Online · July 2024"
+ },
+ {
+  "p": 172,
+  "ch": "training",
+  "t": "Desalination process innovations",
+  "d": "Open online webinar covering global water resources, saltwater composition, major and minor desalination systems, green desalination, green and renewable hydrogen and desalination ability, desalination process innovations, R&amp;D in desalination by WTIIRA, and desalination industry vendors.",
+  "meta": "Online · September 2024"
+ },
+ {
+  "p": 173,
+  "ch": "membership",
+  "t": "American Society of Civil Engineers — election to Member",
+  "d": "By action of the Board of Direction, Ahmed Salah El-Din El-Zayat was elected Member of the American Society of Civil Engineers, June 2002.",
+  "meta": "USA · 2002"
+ },
+ {
+  "p": 174,
+  "ch": "membership",
+  "t": "DWA — German Association for Water, Wastewater and Waste",
+  "d": "Membership card of the Deutsche Vereinigung für Wasserwirtschaft, Abwasser und Abfall (ATV-DVWK), member number 5036, 2002.",
+  "meta": "Germany · 2002"
+ },
+ {
+  "p": 175,
+  "ch": "membership",
+  "t": "ASCE — Saudi Arabia Section",
+  "d": "ASCE membership card, grade Member, Saudi Arabia Section, member number 393064.",
+  "meta": "Saudi Arabia · 2002"
+ },
+ {
+  "p": 176,
+  "ch": "membership",
+  "t": "Environmental &amp; Water Resources Institute of ASCE",
+  "d": "Certification of membership in good standing of the Environmental &amp; Water Resources Institute of the American Society of Civil Engineers, Reston, Virginia.",
+  "meta": "USA"
+ },
+ {
+  "p": 177,
+  "ch": "membership",
+  "t": "American Water Works Association",
+  "d": "AWWA membership, international active, international members section, member number 00535688.",
+  "meta": "USA · 2003"
+ },
+ {
+  "p": 178,
+  "ch": "conference",
+  "t": "Water Middle East 2004 — conference speaker",
+  "d": "Conference speaker badge for Water Middle East 2004, Bahrain International Exhibition Centre, 13–15 September 2004.",
+  "meta": "Bahrain · 2004"
+ },
+ {
+  "p": 179,
+  "ch": "conference",
+  "t": "Water and wastewater technology seminar, Muscat",
+  "d": "Certificate recognising participation in the international seminar on Experiences and Practices of Water and Wastewater Technology, Muscat, 5–7 October 2004, awarded by the Regional Centre on Urban Water Management, Tehran — under the auspices of UNESCO — and the Ministry of Regional Municipalities, Environment and Water Resources.",
+  "meta": "Muscat, Oman · 2004"
+ },
+ {
+  "p": 180,
+  "ch": "conference",
+  "t": "Oman MRMEWR — workshop invitation",
+  "d": "The Directorate General of Water Resources Affairs invited participation in the international workshop on Public Participation, Awareness and Information Exchange for Water Resources Development and Management, held 26–28 September 2005 with the Iran Regional Center on Urban Water Management, Tehran.",
+  "meta": "Oman · 2005"
+ },
+ {
+  "p": 181,
+  "ch": "conference",
+  "t": "Oman MRMEWR — invitation letter",
+  "d": "Letter from the Directorate General of Water Resources Affairs, Sultanate of Oman, dated 16 August 2005, inviting participation in the technical events of 26–28 September 2005.",
+  "meta": "Oman · 2005"
+ },
+ {
+  "p": 182,
+  "ch": "conference",
+  "t": "Public participation in water resources management — Muscat",
+  "d": "Certificate recognising the outstanding paper presented at the international workshop on Public Participation, Awareness and Information Exchange in Water Resources Development and Management, Muscat, 26–28 September 2005.",
+  "meta": "Muscat, Oman · 2005"
+ },
+ {
+  "p": 183,
+  "ch": "conference",
+  "t": "7th Saudi-Japan Business Council joint meeting",
+  "d": "Participation in the seventh joint meeting of the Saudi-Japan Business Council, Riyadh, 22 March 2006, convened with JCCME and the Council of Saudi Chambers.",
+  "meta": "Riyadh, Saudi Arabia · 2006"
+ },
+ {
+  "p": 184,
+  "ch": "conference",
+  "t": "ICWRAE 2008 — paper acceptance",
+  "d": "The Scientific Committee confirmed acceptance of the paper <em>Biological Phosphorus Removal Feasibility Study</em> for the 3rd International Conference on Water Resources and Arid Environments and the 1st Arab Water Forum, King Fahd Cultural Center, Riyadh, 16–19 November 2008.",
+  "meta": "Riyadh, Saudi Arabia · 2008"
+ },
+ {
+  "p": 185,
+  "ch": "conference",
+  "t": "ICWRAE 2008 — certificate of participation",
+  "d": "The Organising Committee thanked Ahmed AlZayat of Environmental Engineering Group, Egypt, for providing valuable scientific input and contributing to the success of the conference and forum, 19 November 2008.",
+  "meta": "Riyadh, Saudi Arabia · 2008"
+ },
+ {
+  "p": 186,
+  "ch": "conference",
+  "t": "Capacity building in urban water management",
+  "d": "Certificate recognising the outstanding paper presented at the international conference on Capacity Building in Urban Water Management under Water Scarcity Conditions, Muscat, 13–15 December 2009.",
+  "meta": "Muscat, Oman · 2009"
+ },
+ {
+  "p": 187,
+  "ch": "training",
+  "t": "JICA — wastewater treatment plant designers course, Japan",
+  "d": "Attendance certificate from the General Authority for Sanitary Drainage and the Japan International Cooperation Agency for the course for wastewater treatment plant designers held in Japan.",
+  "meta": "Japan · 2008"
+ },
+ {
+  "p": 188,
+  "ch": "conference",
+  "t": "IWRM Karlsruhe 2010 — call for papers",
+  "d": "The organisers wrote that the submission had underscored the international importance of managing water, attested by 150 papers received on the topic, and that the paper had been chosen as a presentation by the advisory board — asking for confirmation to speak at Karlsruhe on 24 and 25 November 2010.",
+  "meta": "Karlsruhe, Germany · 2010"
+ },
+ {
+  "p": 189,
+  "ch": "conference",
+  "t": "IWRM Karlsruhe 2010 — certificate of participation",
+  "d": "Certification that Dr. Ahmed El-Zayat attended IWRM — Integrated Water Resources Management, Karlsruhe, 24–25 November 2010, and gave a lecture titled <em>Multi-criteria framework for performance benchmarking of the water sectors in the Nile Basin</em>.",
+  "meta": "Karlsruhe, Germany · 2010"
+ },
+ {
+  "p": 190,
+  "ch": "conference",
+  "t": "IWRM Karlsruhe 2010 — speaker profile",
+  "d": "Speaker profile for Dr. Ing. Ahmed Salah ElDien ElZayat, environmental sanitation and water resources expert, Environmental Engineering Group (EMG), Egypt–Fayoum. Specialisation: water and wastewater treatment systems, water resources and irrigation. Education: B.Sc. Civil Engineering, Cairo University, Giza, 1987; Environmental &amp; Sanitary Engineering Diploma of Higher Studies, Cairo University; Master of Science, Cairo University — <em>Comparative study on activated sludge biological treatment systems in some Arab cities</em>; and Doctor of Philosophy, Cairo University with co-referee Ruhr University, Bochum, Germany — <em>Development of dynamic simulation and modelling for Bio-P removal</em>.",
+  "meta": "Karlsruhe, Germany · 2010"
+ },
+ {
+  "p": 191,
+  "ch": "conference",
+  "t": "ICWRAE 2010 — certificate of participation",
+  "d": "The Organising Committee of the 4th International Conference on Water Resources and Arid Environments, 6–8 December 2010, thanked the contribution of valuable scientific input to the conference.",
+  "meta": "Riyadh, Saudi Arabia · 2010"
+ },
+ {
+  "p": 192,
+  "ch": "conference",
+  "t": "Use of unconventional water in urban water management",
+  "d": "Acknowledgement of an informative presentation at the international seminar on Use of Unconventional Water in Urban Water Management, Muscat, 24–26 February 2014, convened by the Regional Centre on Urban Water Management, Tehran, under the auspices of UNESCO, with the Ministry of Regional Municipalities and Water Resources of Oman.",
+  "meta": "Muscat, Oman · 2014"
+ },
+ {
+  "p": 193,
+  "ch": "conference",
+  "t": "EWDR — 6th International Conference on Water Resources and Environment",
+  "d": "The Euro-Arab Organization for Environment, Water and Desert Researches certified participation by Dr. Ahmed ElZayat of EMG Egypt in its sixth international conference, <em>Our Environment: Our Present and the Future of Our Generations</em>, Istanbul, 27–30 October 2014, with a paper on the Nile Basin countries water strategy concession.",
+  "meta": "Istanbul, Türkiye · 2014"
+ },
+ {
+  "p": 194,
+  "ch": "conference",
+  "t": "Oman Water Society — industrial wastewater symposium",
+  "d": "Thanks and appreciation from the Oman Water Society for participation in the symposium on industrial wastewater and the challenges of treatment and reuse, held 1–2 December 2014 in Sohar, with Orpic, AZD and industrial partners.",
+  "meta": "Sohar, Oman · 2014"
+ },
+ {
+  "p": 195,
+  "ch": "conference",
+  "t": "ICWRAE 2016 — 7th International Conference",
+  "d": "Certificate of participation from the 7th International Conference on Water Resources and Arid Environments, 4–6 December 2016, King Saud University, Riyadh, thanking Dr. Ahmed Salaheldin Ibrahim Mohamed for a valuable scientific contribution.",
+  "meta": "Riyadh, Saudi Arabia · 2016"
+ },
+ {
+  "p": 196,
+  "ch": "training",
+  "t": "Metito — biological wastewater treatment course",
+  "d": "Metito Water Treatment certified that Dr. Ahmed Salah Eldien Ibrahim El Zayat conducted a 30-hour training course for its design and proposals engineers in biological wastewater treatment systems and applications, 9 August to 2 September 2020. Scope covered biological nutrient removal literature; simultaneous nitrification and denitrification models; the activated sludge process model; extended aeration and orbal systems; the biofilm concept and competition in biofilms; crucial factors for dimensioning MBBR/IFAS including carrier media filling rate versus pollutant loads, temperature and removal efficiency; empirical equations for biofilm carbonaceous uptake and nitrification; design optimisation and troubleshooting of a full-scale MBBR plant; media types and applications; obstacles and mistakes hard to remedy; problems arising with inexperienced plant construction companies and plastic manufacturers; the complete-mix MBBR design model; a case study; and a reference list in Egypt.",
+  "meta": "Cairo, Egypt · 2020"
+ },
+ {
+  "p": 197,
+  "ch": "training",
+  "t": "National Water Company — knowledge hour",
+  "d": "Certificate of thanks and appreciation from the National Water Company recognising outstanding effort in transferring knowledge to company staff through the Knowledge Hour initiative, on the fundamentals of water pollution treatment, 7 December 2021.",
+  "meta": "Saudi Arabia · 2021"
+ }
+]
